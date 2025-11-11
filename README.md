@@ -21,12 +21,15 @@
 
 </div>
 
+<div align="start" style="border: 2px solid transparent; background: linear-gradient(#0d1117, #0d1117) padding-box, linear-gradient(90deg, #00e7ff, #8a2be2) border-box; border-radius: 10px; padding: 15px;">
+  
 ### 📈 Profile Views
 <p align="start">
   <img src="https://komarev.com/ghpvc/?username=ibrohim3&label=Profile%20Views&color=00e7ff&style=flat-square" alt="profile views"/>
 </p>
 
 ---
+</div>
 
 <div align="start" style="
   position: relative;
@@ -94,11 +97,7 @@
 
 ---
 
-<div align="start" style="border: 2px solid transparent; background: linear-gradient(#0d1117, #0d1117) padding-box, linear-gradient(90deg, #00e7ff, #8a2be2) border-box; border-radius: 10px; padding: 15px;">
 
-
-
-</div>
 
 ---
 
