@@ -20,7 +20,14 @@
 - ⚡ Fun fact: *I don’t sleep until the code runs 😄*
 
 </div>
+
+### 📈 Profile Views
+<p align="start">
+  <img src="https://komarev.com/ghpvc/?username=ibrohim3&label=Profile%20Views&color=00e7ff&style=flat-square" alt="profile views"/>
+</p>
+
 ---
+
 <div align="start" style="
   position: relative;
   border: 2.5px solid transparent;
@@ -35,8 +42,9 @@
   transition: all 0.4s ease-in-out;
 ">
   
-  <h2 style="font-size: 30px; font-weight: 800; color: #00e7ff; margin-bottom: 25px; text-shadow: 0 0 10px rgba(0,231,255,0.6);">
+  <h2 style="font-size: 30px; font-weight: 800; color: #00e7ff; margin-bottom: 30px; text-shadow: 0 0 10px rgba(0,231,255,0.6);">
     📊 My GitHub Performance 
+    
   </h2>
 
 
@@ -88,10 +96,7 @@
 
 <div align="start" style="border: 2px solid transparent; background: linear-gradient(#0d1117, #0d1117) padding-box, linear-gradient(90deg, #00e7ff, #8a2be2) border-box; border-radius: 10px; padding: 15px;">
 
-### 📈 Profile Views
-<p align="start">
-  <img src="https://komarev.com/ghpvc/?username=ibrohim3&label=Profile%20Views&color=00e7ff&style=flat-square" alt="profile views"/>
-</p>
+
 
 </div>
 
