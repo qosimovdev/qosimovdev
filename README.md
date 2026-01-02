@@ -52,11 +52,11 @@
 
 
 <p align="center">
-  <!-- <img 
+  <img 
     src="https://github-readme-stats.vercel.app/api?username=ibrohim3&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
     height="170" 
     style="margin: 10px; display: inline-block; border-radius: 14px; box-shadow: 0 0 12px rgba(0,231,255,0.25);" 
-  /> -->
+  />
   <img 
     src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ibrohim3&theme=tokyonight&hide_border=true&border_radius=15" 
     height="170" 
@@ -75,14 +75,14 @@
 
 ---
 
-<!-- <div align="start" style="border: 2px solid transparent; background: linear-gradient(#0d1117, #0d1117) padding-box, linear-gradient(90deg, #00e7ff, #8a2be2) border-box; border-radius: 10px; padding: 15px;">
+ <div align="start" style="border: 2px solid transparent; background: linear-gradient(#0d1117, #0d1117) padding-box, linear-gradient(90deg, #00e7ff, #8a2be2) border-box; border-radius: 10px; padding: 15px;">
 
 ### 🏆 Achievements
 <p align="start">
   <img src="https://github-profile-trophy.vercel.app/?username=ibrohim3&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=6" />
 </p>
 
-</div> -->
+</div> 
 
 ---
 
