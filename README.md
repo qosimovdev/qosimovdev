@@ -1,5 +1,5 @@
 <h1 align="start">👋 Hi there, I'm Ibrohim</h1>
-<h3 align="start">💻 Frontend Developer from Uzbekistan 🇺🇿</h3>
+<h3 align="start">💻 Full-Stack Developer from Uzbekistan 🇺🇿</h3>
 
 ---
 
@@ -16,7 +16,7 @@
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.react`, `.vue`
 - 💬 Ask me about **frontend development**
 - 🎯 Goal: Build fast, responsive, and modern web apps
-- 📫 Telegram: [@ibrohimqosimovv](https://t.me/ibrohimqosimovv)
+- 📫 Telegram: [@qosimovdev](https://t.me/qosimovdev)
 - ⚡ Fun fact: *I don’t sleep until the code runs 😄*
 
 </div>
