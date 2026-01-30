@@ -1,10 +1,10 @@
 <h1 align="start">👋 Hi there, I'm Ibrohim</h1>
-<h3 align="start">💻 Full-Stack Developer from Uzbekistan 🇺🇿</h3>
+<h3 align="start">💻 Full-Stack Creator from Uzbekistan 🇺🇿</h3>
 
 ---
 
 <p align="start">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Vue+%7C+React+%7C+Node.js+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+learning+new+things!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Full-Stack Creator;Vue+%7C+React+%7C+Node.js+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+learning+new+things!"/>
 </p>
 
 ---
