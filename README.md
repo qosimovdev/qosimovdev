@@ -4,8 +4,9 @@
 ---
 
 <p align="start">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Full-Stack Creator;Vue+%7C+React+%7C+Node.js+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+learning+new+things!"/>
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Creator;Vue+%7C+React+%7C+Node.js;Always+learning+new+things!" />
 </p>
+
 
 ---
 
@@ -52,8 +53,16 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ibrohim3&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" style="margin: 10px; display: inline-block; border-radius: 14px; box-shadow: 0 0 12px rgba(0,231,255,0.25);" /> <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ibrohim3&theme=tokyonight&hide_border=true&border_radius=15" height="170" style="margin: 10px; display: inline-block; border-radius: 14px; box-shadow: 0 0 12px rgba(138,43,226,0.25);" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=qosimovdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=qosimovdev&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
+
 
 </div>
 
@@ -62,9 +71,12 @@
 <div align="start" style="border: 2px solid transparent; background: linear-gradient(#0d1117, #0d1117) padding-box, linear-gradient(90deg, #00e7ff, #8a2be2) border-box; border-radius: 10px; padding: 15px;">
 
 ### 🏆 Achievements
-<p align="start">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibrohim3&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=6" />
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=qosimovdev&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=6&v=1"
+  />
 </p>
+
 
 </div> 
 
