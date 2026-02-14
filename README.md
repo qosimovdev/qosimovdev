@@ -86,7 +86,7 @@
 
 ### 🧠 Tech Stack
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,mongodb,git,github,vscode" />
 </p>
 
 </div>
